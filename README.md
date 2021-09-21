@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning or developing my leadership skills
 - 💞️ I’m looking to collaborate on any interesting projects
 - 📫 How to reach me [Hi Sherryl](mailto:patrisia0593@gmail.com?subject=[Hi Sherryl])
+- 😎 Know me better from [here](https://www.sherrylwen.com/?target=_blank)
 
 <!---
 Sherryl93/Sherryl93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
